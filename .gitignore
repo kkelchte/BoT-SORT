@@ -1,12 +1,19 @@
-/pretrained/*
-/YOLOX_outputs/
-/runs/
-/build
-/.idea/
-*.pyc
-/tools/private
-wandb/
-*egg-info*
-fast_reid/datasets/MOT17-ReID
-*/__pycache__
+build
+pretrained
 *.so
+*.pyc
+*.egg-info
+# tracker/__pycache__
+# tracker/tracking_utils/__pycache__
+# /yolox/*
+# /pretrained/*
+# /YOLOX_outputs/
+# /runs/
+# /.idea/
+# *.pyc
+# /tools/private
+# wandb/
+# *egg-info*
+# fast_reid/datasets/MOT17-ReID
+# *.so
+# yolox/data/__pycache__/*
