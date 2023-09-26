@@ -3,8 +3,9 @@ pretrained
 *.so
 *.pyc
 *.egg-info
-tracker/__pycache__
 data
+tracker
+yolox
 # tracker/tracking_utils/__pycache__
 # /yolox/*
 # /pretrained/*
